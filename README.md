@@ -15,6 +15,7 @@ This project aims to update the information on the industrial classification of 
 **Files Included**
 
 notebooks: Jupyter notebooks containing code for data preprocessing, analysis, and model development.
+
 app: Source code for the Streamlit dashboard application.
 
 **Results**
