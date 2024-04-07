@@ -1,7 +1,8 @@
 **Industrial Classification of Workforce in India**
 _Overview_
 This project aims to update the information on the industrial classification of main and marginal workers in India, excluding cultivators and agricultural laborers. The classification is done by sex and by section, division, and class to provide accurate data for policy-making and employment planning. The project includes merging and cleaning datasets, performing data exploration and analysis, feature engineering, model building, and testing. Additionally, natural language processing techniques are used to analyze core industries and group business categories such as retail, poultry, agriculture, and manufacturing.
-Approach
+
+**Approach**
 1. Data Collection and Merging: Multiple CSV data files are merged to create a comprehensive dataframe.
 2. Data Exploration: Understanding the structure and characteristics of the dataset, identifying missing values.
 3. Data Cleaning: Handling missing values, outliers, duplicates, and inconsistencies in the data.
