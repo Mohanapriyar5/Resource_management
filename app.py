@@ -185,7 +185,14 @@ with st.sidebar:
     select = option_menu("Main Menu",["Home","Geo-Visualization","Data Analysis"])
 
 if select == "Home":
-    st.write("Resource Management")
+    st.write("The use of this application is to find the total number of workers in Main and marginal areas. Through this application we can able to know,")
+    st.write("1. How many males and Females are working.")
+    st.write("2. How Marginal rural males and females are working.")
+    st.write("3. How Main rural males and females are working.")
+    st.write("4. How Marginal Urban males and females are working.")
+    st.write("5. How Main Urban males and females are working.")
+
+
 elif select == "Data Analysis":
     tab1,tab2,tab3 = st.tabs(["Total","Male","Female"])
     
